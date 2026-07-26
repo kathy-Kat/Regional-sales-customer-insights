@@ -1,19 +1,22 @@
 # 📊 Customer Feedback Analysis on Regional Sales
 
-An interactive Business Intelligence dashboard built in **Google Looker Studio** to analyze regional sales performance, customer satisfaction, return rates, and customer feedback trends.
+Using Google Gemini, we generated a 12-month synthetic dataset (August 2025 – July 2026) modelling real-world business dynamics like holiday spikes and product-specific return rates. The dataset spans **5 global regions** (North America, Europe, Asia, Africa, Australia) and **6 product categories** (Electronics, Clothing, Home Goods, School Supplies, Gym Equipment, Beauty). It combines core financial metrics—like revenue, product costs, and unit volume—with customer feedback indicators including CSAT scores, sentiment tags, and return percentages. <br>
 
----
+<br>
 
-## Dashboard Preview
+## Tech Stack
 
-<img width="1197" height="1079" alt="image" src="https://github.com/user-attachments/assets/6436c981-6207-4ffc-b045-74194e21fa52" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+</p>
 
-
----
 
 ## Project Objectives
 
-This dashboard helps answer key business questions such as:
+This dashboard helps answer key business questions such as:<br>
 
 - Which regions generate the highest sales?
 - How profitable is the business?
@@ -21,7 +24,11 @@ This dashboard helps answer key business questions such as:
 - What customer issues occur most frequently?
 - Is customer satisfaction linked to return rates?
 
----
+## Dashboard Preview
+
+<img width="1197" height="1079" alt="image" src="https://github.com/user-attachments/assets/6436c981-6207-4ffc-b045-74194e21fa52" />
+
+
 
 ## Key Metrics
 
@@ -47,19 +54,8 @@ This dashboard helps answer key business questions such as:
     - Category
     - Month
     - Feedback Tag
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
-</p>
-
----
+      
+<br>
 
 ## Skills Demonstrated
 
@@ -72,7 +68,7 @@ This dashboard helps answer key business questions such as:
 - KPI Reporting
 - Interactive Reporting
 
----
+<br>
 
 ## Tools Used
 
@@ -81,10 +77,10 @@ This dashboard helps answer key business questions such as:
 - Google Sheets
 - Google Gemini
 
----
+<br>
 
 ## Author
 
-**Catherine Maponya**
+**Catherine Maponya** <br>
 
 Aspiring Data Analyst | BI Developer | Business Intelligence Enthusiast
