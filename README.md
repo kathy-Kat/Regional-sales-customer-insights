@@ -24,6 +24,11 @@ This dashboard helps answer key business questions such as:<br>
 - What customer issues occur most frequently?
 - Is customer satisfaction linked to return rates?
 
+<br>
+
+[Link to dashboard](https://datastudio.google.com/s/q2vxGpqmMdc)
+
+
 ## Dashboard Preview
 
 <img width="1197" height="1079" alt="image" src="https://github.com/user-attachments/assets/6436c981-6207-4ffc-b045-74194e21fa52" />
