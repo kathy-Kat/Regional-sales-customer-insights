@@ -26,7 +26,7 @@ This dashboard helps answer key business questions such as:<br>
 
 <br>
 
-[Link to dashboard](https://datastudio.google.com/s/q2vxGpqmMdc)
+[LINK TO DASHBOARD](https://datastudio.google.com/s/q2vxGpqmMdc)
 
 
 ## Dashboard Preview
